@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "1",
+        "descricao": "Compra de supermercado",
+        "valor": "R$150.00",
+        "data": "01/02/2024"
+    },
+    {
+        "_id": "2",
+        "descricao": "Conta de luz",
+        "valor": "R$80.00",
+        "data": "05/02/2024"
+    },
+    {
+        "_id": "3",
+        "descricao": "Jantar em restaurante",
+        "valor": "R$120.00",
+        "data": "14/02/2024"
+    },
+    {
+        "_id": "4",
+        "descricao": "Combusível",
+        "valor": "R$200.00",
+        "data": "20/02/2024"
+    },
+    {
+        "_id": "5",
+        "descricao": "Conta de internet",
+        "valor": "R$90.00",
+        "data": "28/02/2024"
+    }
+]
