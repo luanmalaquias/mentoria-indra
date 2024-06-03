@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Exercicio {
-    public static void idadeNadador(int idade) {
+    public stExercicio1 idadeNadador(int idade) {
         if (idade >= 5 && idade <= 7) {
             System.out.println("Infantil A");
         } else if (idade >= 8 && idade <= 10) {
